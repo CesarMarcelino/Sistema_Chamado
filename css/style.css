@@ -55,6 +55,12 @@ button{
     margin-top: 30px;
 }
 
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    
+    }
 
 
 
